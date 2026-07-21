@@ -1,0 +1,98 @@
+# About TDARE
+
+## Overview
+
+TDARE (Threat Intelligence, Detection and Automatic Response integrated with Reverse Engineering) is an integrated cybersecurity platform designed to help Security Operations Centers (SOCs) detect, analyze, investigate, and respond to security incidents efficiently.
+
+The platform combines Security Information and Event Management (SIEM), Security Orchestration, Automation and Response (SOAR), Threat Intelligence, and Reverse Engineering into a unified environment that simplifies incident response while reducing analyst workload.
+
+---
+
+## Vision
+
+Modern organizations generate millions of security events every day. Traditional security monitoring tools often require analysts to manually correlate logs, investigate alerts, and perform repetitive response actions.
+
+TDARE was developed to bridge these gaps by providing an intelligent platform capable of:
+
+- Centralizing security logs
+- Detecting suspicious activities
+- Enriching alerts with threat intelligence
+- Automating incident response
+- Assisting analysts with AI-powered insights
+
+---
+
+## Core Objectives
+
+- Improve threat visibility
+- Accelerate incident response
+- Reduce Mean Time To Detect (MTTD)
+- Reduce Mean Time To Respond (MTTR)
+- Simplify SOC operations
+- Support malware investigation workflows
+
+---
+
+## Major Components
+
+### SIEM
+
+Collects and indexes logs from multiple endpoints, enabling centralized monitoring and advanced searching.
+
+### SOAR
+
+Automates repetitive security operations such as endpoint isolation, process termination, and playbook execution.
+
+### Threat Intelligence
+
+Enriches alerts using external intelligence providers including:
+
+- VirusTotal
+- AlienVault OTX
+- AbuseIPDB
+- MISP
+- MalwareBazaar
+
+### Reverse Engineering
+
+Supports malware analysis through integrations with reverse engineering and sandbox technologies.
+
+### AI Assistant
+
+Provides natural-language interaction, security recommendations, alert summaries, and investigation guidance using local AI models.
+
+---
+
+## Target Users
+
+- Security Operations Centers (SOC)
+- Incident Response Teams
+- Security Analysts
+- Blue Teams
+- Educational Institutions
+- Small and Medium Enterprises
+
+---
+
+## Design Principles
+
+- Modular architecture
+- Extensible detection engine
+- Local-first deployment
+- Security by design
+- Open-source technologies
+- User-friendly interface
+
+---
+
+## Future Development
+
+Future versions of TDARE aim to introduce:
+
+- Sigma Rule Marketplace
+- MITRE ATT&CK Mapping
+- Threat Hunting Workspace
+- Machine Learning Detection Models
+- Distributed Agent Management
+- Advanced Dashboard Analytics
+- Multi-tenant Architecture
