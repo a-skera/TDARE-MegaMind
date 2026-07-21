@@ -1,7 +1,11 @@
-<img width="714" height="554" alt="tdare_logo_white" src="https://github.com/user-attachments/assets/857d84e0-5300-448b-80f7-ae8153816e20" />
+<img width="714" height="554" alt="tdare_logo_white_nobg" src="https://github.com/user-attachments/assets/943be13d-e94a-40e7-bbdc-b5f4d39b3248" />
+
+
+
 # TDARE-MegaMind
 TDARE is Threat Intelligence, Detection and Automatic Response integrated with Reverse Engineering. 
 
+Components of TDARE:
 - SIEM
 - SOAR
 - Threat Intelligence
@@ -10,4 +14,6 @@ TDARE is Threat Intelligence, Detection and Automatic Response integrated with R
 - AI-SOC-Helper
 - Reverse Engineering
 
-All components that are published in this repo or the other repo at any of TDARE team accounts are just for demo-preview but not the production grade of TDARE, incase you want the professional production grade please contact us. 
+All components that are published in this repo or any other repo at any of TDARE's team accounts are just for demo-preview but not the production grade of TDARE, incase you want the professional production grade please contact us. 
+
+# The contact methods will be added soon ........ ! -- :) --- !
