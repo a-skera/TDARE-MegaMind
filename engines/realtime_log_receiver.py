@@ -1,10 +1,11 @@
 """
+TDARE-Team ->))
+
+For any questions or if you want to use our 
+production grade platform contact us and for any creativity have fun. 
+
 Real-time Log Receiver
 Handles continuous log reception from multiple endpoints
-
-By TDARE-Team -> please for any questions or if you want to use our 
-
-production grade platform contact us and for any creativity have fun. 
 """
 
 import json
