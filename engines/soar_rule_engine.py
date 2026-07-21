@@ -2,7 +2,7 @@
 SOAR Rule Engine
 
 Loads YAML rules and maps extracted features (ip, alert_level) to SSH commands.
-No detection logic - only rule matching.
+No detection logic (as we depend on our detection_engines and smart agents) - only rule matching.
 """
 
 from pathlib import Path
