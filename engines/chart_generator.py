@@ -3,7 +3,7 @@ Chart Generator - Creates matplotlib charts for TDARE insights
 """
 
 import matplotlib
-# Use QtAgg backend which works with both PySide6 and PyQt5
+
 try:
     matplotlib.use('QtAgg')
 except:
