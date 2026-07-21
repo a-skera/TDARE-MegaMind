@@ -11,6 +11,7 @@ Components of TDARE:
 - Threat Intelligence
 - AI-Commander
 - Proactive Defense
+- Deep Investigations
 - AI-SOC-Helper
 - Reverse Engineering
 
