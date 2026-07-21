@@ -1,5 +1,5 @@
 """
-Chart Generator - Creates matplotlib charts for PySide6 integration
+Chart Generator - Creates matplotlib charts for TDARE insights
 """
 
 import matplotlib
