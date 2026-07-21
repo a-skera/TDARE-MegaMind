@@ -1,4 +1,5 @@
 #LogDetection Engine ~= DetectionEngine
+# notice: In the demo type we limit the scope to powershell only. 
 from typing import Dict, Any
 import re
 from datetime import datetime, timedelta
