@@ -1,6 +1,6 @@
 """
 Log Formatter - Transforms logs into standardized schema
-All logs from OpenSearch must follow the exact schema structure
+All logs that TDARE recieves must follow the exact schema structure
 """
 
 from datetime import datetime
