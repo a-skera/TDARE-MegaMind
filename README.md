@@ -1,3 +1,4 @@
+<img width="714" height="554" alt="tdare_logo_white" src="https://github.com/user-attachments/assets/857d84e0-5300-448b-80f7-ae8153816e20" />
 # TDARE-MegaMind
 TDARE is Threat Intelligence, Detection and Automatic Response integrated with Reverse Engineering. 
 
