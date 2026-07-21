@@ -1,0 +1,80 @@
+{
+  "matches": [
+    {
+      "id": "NET018",
+      "name": "SMTP Data Exfiltration",
+      "category": "networking_c2",
+      "pack_name": "Networking & C2",
+      "pack_file": "networking_c2.json",
+      "matched_indicators": [
+        "DATA"
+      ],
+      "missing_indicators": [
+        "MAIL FROM:",
+        "RCPT TO:"
+      ],
+      "confidence": 0.3333,
+      "base_severity": 75,
+      "adjusted_severity": 75,
+      "severity": 75,
+      "severity_level": "High",
+      "tags": [
+        "smtp",
+        "exfil"
+      ],
+      "description": "",
+      "type": "string",
+      "match_mode": "full_text"
+    },
+    {
+      "id": "RANS002",
+      "name": "AES Encryption Artifact",
+      "category": "ransomware",
+      "pack_name": "Ransomware",
+      "pack_file": "ransomware.json",
+      "matched_indicators": [
+        "Key"
+      ],
+      "missing_indicators": [
+        "AES",
+        "Encrypt"
+      ],
+      "confidence": 0.3333,
+      "base_severity": 70,
+      "adjusted_severity": 70,
+      "severity": 70,
+      "severity_level": "Medium",
+      "tags": [
+        "aes",
+        "encryption"
+      ],
+      "description": "",
+      "type": "string",
+      "match_mode": "full_text"
+    }
+  ],
+  "risk_score": 145,
+  "risk_level": "Medium",
+  "matched_artifacts": {
+    "all_matches": [
+      "DATA",
+      "Key"
+    ],
+    "dlls": [],
+    "apis": [
+      "DATA"
+    ],
+    "strings": [
+      "Key"
+    ],
+    "network": [],
+    "registry": []
+  },
+  "total_matched": 2,
+  "packs_loaded": [
+    "Networking & C2",
+    "Ransomware"
+  ],
+  "signatures_scanned": 165,
+  "normalized_length": 5320
+}
