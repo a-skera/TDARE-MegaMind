@@ -18,3 +18,14 @@ Components of TDARE:
 All components that are published in this repo or any other repo at any of TDARE's team accounts are just for demo-preview but not the production grade of TDARE, incase you want the professional production grade please contact us. 
 
 # Contact methods will be added soon ........ ;)
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/b04c833a-d409-45e3-8002-5b364b3fcd42
+
+
+
