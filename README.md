@@ -1,4 +1,4 @@
-<img width="714" height="554" alt="tdare_logo_white_nobg" src="https://github.com/user-attachments/assets/943be13d-e94a-40e7-bbdc-b5f4d39b3248" />
+<img width="714" height="554" alt="tdare_logo_white" src="https://github.com/user-attachments/assets/3f8b5bd3-84b4-41e0-9b35-0c12b929d89a" />
 
 
 
